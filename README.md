@@ -24,17 +24,17 @@
   [Repository Link](https://github.com/yashdatir1999/LANDING-page6--I-FUSION-TECH-)  
   [Project Link](https://yashdatir1999.github.io/LANDING-page6--I-FUSION-TECH-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* SILENT-STUDY-SANCTUARY    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page7--SILENT-STUDY-SANCTUARY-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page7--SILENT-STUDY-SANCTUARY-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* FRUIT-WAVE    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page8--FRUIT-WAVE-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page8--FRUIT-WAVE-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* ORGANIC-FOOD-STORE    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page9--ORGANIC-FOOD-STORE-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page9--ORGANIC-FOOD-STORE-/)
 
 * RELIABLE-INSTITUDE    
   [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
