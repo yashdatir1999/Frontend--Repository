@@ -12,17 +12,17 @@
   [Repository Link](https://github.com/yashdatir1999/LANDING-page3--PENTXPRESS-CARS-)  
   [Project Link](https://yashdatir1999.github.io/LANDING-page3--PENTXPRESS-CARS-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* FROSTY-FUSIONS    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page4--FROSTY-FUSIONS-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page4--FROSTY-FUSIONS-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* PIZZAZZ-PLANET    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page5--PIZZAZZ-PLANET-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page5--PIZZAZZ-PLANET-/)
 
-* RELIABLE-INSTITUDE    
-  [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
-  [Project Link](https://yashdatir1999.github.io/RELIABLE-INSTITUDE/)
+* I-FUSION-TECH    
+  [Repository Link](https://github.com/yashdatir1999/LANDING-page6--I-FUSION-TECH-)  
+  [Project Link](https://yashdatir1999.github.io/LANDING-page6--I-FUSION-TECH-/)
 
 * RELIABLE-INSTITUDE    
   [Repository Link](https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE)  
