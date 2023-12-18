@@ -40,7 +40,3 @@
   [Repository Link](https://github.com/yashdatir1999/LANDING-page10--URBANCARRY-BAGS-)  
   [Project Link](https://yashdatir1999.github.io/LANDING-page10--URBANCARRY-BAGS-/)
 
-# yash
-## yash
-### yash
-#### yash
