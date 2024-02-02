@@ -1,8 +1,8 @@
 # **Frontend-Projects-Repository**
 # # Frontend websites
-* VOXI-AUDIO 
-  [Repository Link]([https://github.com/yashdatir1999/LANDING-page1-RELIABLE-INSTITUDE](https://github.com/yashdatir1999/Voxi-Audio))  
-  [Project Link]([https://yashdatir1999.github.io/RELIABLE-INSTITUDE/](https://yashdatir1999.github.io/Voxi-Audio/))
+* VOXI-AUDIO   
+  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
+  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
   
 # # LANDING PAGES
 * RELIABLE-INSTITUDE    
