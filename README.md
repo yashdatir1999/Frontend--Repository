@@ -4,35 +4,33 @@
   [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
   [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
 
-  * SUNSET-COFFEE-POINT   
+* SUNSET-COFFEE-POINT   
   [Repository Link](https://github.com/yashdatir1999/SUNSET-COFFEE-POINT)  
   [Project Link](https://yashdatir1999.github.io/SUNSET-COFFEE-POINT/)
 
-  * Flavour-Junction   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
+* Flavour-Junction   
+  [Repository Link](https://github.com/yashdatir1999/Flavour-Junction)  
+  [Project Link](https://yashdatir1999.github.io/Flavour-Junction/)
 
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
+* TIME-TRACKER   
+  [Repository Link](https://github.com/yashdatir1999/TIME-TRACKER)  
+  [Project Link](https://yashdatir1999.github.io/TIME-TRACKER/)
+
+* PROPERTY-MANAGEMANT   
+  [Repository Link](https://github.com/yashdatir1999/property-managemant)  
   [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
-  * VOXI-AUDIO   
-  [Repository Link](https://github.com/yashdatir1999/Voxi-Audio)  
-  [Project Link](https://yashdatir1999.github.io/Voxi-Audio/)
+  
+* FURNITURE   
+  [Repository Link](https://github.com/yashdatir1999/Furniture)  
+  [Project Link](https://yashdatir1999.github.io/Furniture/)
+
+* MATO-PHOTOGRAPHY   
+  [Repository Link](https://github.com/yashdatir1999/MATO-PHOTOGRAPHY)  
+  [Project Link](https://yashdatir1999.github.io/MATO-PHOTOGRAPHY/)
+
+* ELEMENTAL-LAPTOP   
+  [Repository Link](https://github.com/yashdatir1999/ELEMENTAL-LAPTOP)  
+  [Project Link](https://yashdatir1999.github.io/ELEMENTAL-LAPTOP/)
   
 # # LANDING PAGES
 * RELIABLE-INSTITUDE    
